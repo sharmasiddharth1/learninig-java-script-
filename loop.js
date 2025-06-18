@@ -20,3 +20,9 @@ for(let i = 0 ; i<=1000 ; i++){
     answer += i ;
 }
 console.log(answer);
+
+
+let variable = "hello";
+let x = 10 ;
+
+console.log(x);
